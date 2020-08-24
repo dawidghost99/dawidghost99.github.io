@@ -1,2 +1,2 @@
-# this is website demostrating my renume in a modern and enjoyable fashon
+# this is website demostrating my resume in a modern and enjoyable fashon
 
