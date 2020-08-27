@@ -81,7 +81,7 @@ p,ul {
 
 .cursive {
     font-family: 'Dancing Script', cursive;
-    color: rgba(35,35,35,.05);
+    color: #111;
     text-transform: none;
 }
 
