@@ -65,6 +65,11 @@ p,ul {
     line-height: 18px;
 }
 
+.icon-lg {
+    font-size: 50px;
+    line-height: 18px;
+}
+
 .bg-primary {
     background-color: #333;
 }
@@ -76,6 +81,7 @@ p,ul {
 
 .cursive {
     font-family: 'Dancing Script', cursive;
+    color: 333;
     text-transform: none;
 }
 
@@ -233,7 +239,7 @@ header {
     color: #fff;
     width: 100%;
     background-color: #c9c9c9;
-    background-image: url('https://splashbase.s3.amazonaws.com/lifeofpix/regular/Life-of-Pix-free-stock-photos-Slate-Stone-Xeromatic-1440x953.jpg');
+    background-image: url('../assets/Profile.jpg');
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
